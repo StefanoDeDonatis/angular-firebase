@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "prodotti-468a5": {
+      "hosting": {
+        "firebase-angular": [
+          "prodotti-468a5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "prodotti-468a5"
+  }
+}
